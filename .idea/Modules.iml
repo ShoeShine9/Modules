@@ -6,6 +6,10 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Py3" />
     <orderEntry type="module" module-name="Py3" />
+    <orderEntry type="module" module-name="Py2" />
+    <orderEntry type="module" module-name="Py2" />
+    <orderEntry type="module" module-name="Py2" />
+    <orderEntry type="module" module-name="Py2" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
